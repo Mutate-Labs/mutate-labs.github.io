@@ -8,11 +8,11 @@ Contents
 
 .. toctree::
    :maxdepth: 3
-   :caption: Using Solang
+   :caption: Architecture
 
    installing
    running
-   extension
+   extensions
    examples
 
 .. toctree::
