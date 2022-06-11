@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'mutate'
-copyright = '2022, Harshith(Lax), Kushal'
-author = 'Harshith(Lax), Kushal'
+project = 'Mutate Labs'
+copyright = '2022, Lax, Kushal'
+author = 'Lax, Kushal'
 
 
 # -- General configuration ---------------------------------------------------

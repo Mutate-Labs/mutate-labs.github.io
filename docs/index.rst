@@ -1,29 +1,24 @@
-Welcome to mutate's documentation!
-==================================
+Solang Solidity Compiler
+========================
+
+
+
+Contents
+========
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Architecture
+   :maxdepth: 3
+   :caption: Using Solang
 
-   architecture
-   products
+   installing
+   running
+   extension
    examples
-   usage
 
 .. toctree::
-   :maxdepth:3
-   :caption: SDK
-   
-   sdk/mobile.rst
-   sdk/windows.rst
-   sdk.ios.rst
+   :maxdepth: 3
+   :caption: Targets
 
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   targets/solana.rst
+   targets/substrate.rst
+   targets/burrow.rst
