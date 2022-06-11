@@ -1,4 +1,4 @@
-Solang Solidity Compiler
+Mutate Labs Documentation
 ========================
 
 
